@@ -7,4 +7,3 @@ This project tracks football players in a video, calculates their speed, and dis
 - Displays IDs, bounding boxes, and speed on video  
 - Saves processed output as a new video file  
 
-## 📂 Project Structure  
